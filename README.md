@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sayyad-Abdul-latif
 - 👀 I’m interested in Software Engineering , web development. 
-- 🌱 I’m currently learning react js
 - 📫 How to reach me 
 - linkedin = https://www.linkedin.com/in/sayyad-abdul-latif-4203a9243/
 - Twitter = https://twitter.com/SdAbdullatif1
